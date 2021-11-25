@@ -1,4 +1,4 @@
-# MMdetection3D_Install
+# MMdetection3D_Install_Log
 
 ## Environment
 ubuntu 18.04
