@@ -5,8 +5,8 @@ ubuntu 18.04
 RTX 2060 + Driver Version 455.45.01
 gcc 7.5.0
 
-## STEP
-### 1.CONDA Environment
+## Step
+### 1.Conda Environment
 ```
 conda create -n mmlab python=3.6 -y
 conda activatet mmlab
